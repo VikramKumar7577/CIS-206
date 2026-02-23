@@ -1,0 +1,13 @@
+For this assignment, I tested my BMI program to make sure it works the way it should. I wanted to check that the math is correct, that the BMI categories return the right answer, and that the program handles bad input without crashing.
+
+I used Python’s unittest module to test my code. I chose unittest because it is already built into Python and easy to use. It let me test my functions one at a time without having to run the whole program manually every time.
+
+The first thing I tested was the BMI formula. I used a weight of 170 pounds and a height of 5 feet and 7 inches. The result was about 26.6, which is correct. That test passed.
+
+Next, I tested the BMI category function. When I passed in 26.6, it returned Overweight, which is correct. That test also passed.
+
+Then I tested the boundary values for the categories. I checked 18.5, 25, and 30 to make sure they return the correct category. All of those worked as expected.
+
+I also tested error cases. I tested what happens if height is zero. The program raised a ZeroDivisionError like it should. I also tested what happens if a string like abc is passed instead of a number. That raised a TypeError. Both of those tests passed.
+
+All five tests ran successfully in Replit and showed OK. That means my BMI calculations, category logic, and error handling are working correctly.
