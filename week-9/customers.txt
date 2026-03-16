@@ -1,0 +1,10 @@
+ALFKI,Alfreds Futterkiste,Maria Anders,Berlin,Germany
+ANATR,Ana Trujillo Emparedados y helados,Ana Trujillo,Mexico City,Mexico
+ANTON,Antonio Moreno Taquería,Antonio Moreno,Mexico City,Mexico
+AROUT,Around the Horn,Thomas Hardy,London,UK
+BERGS,Berglunds snabbköp,Christina Berglund,Luleå,Sweden
+BLAUS,Blauer See Delikatessen,Hanna Moos,Mannheim,Germany
+BLONP,Blondel père et fils,Frédérique Citeaux,Strasbourg,France
+BOLID,Bólido Comidas preparadas,Martín Sommer,Madrid,Spain
+BONAP,Bon app',Laurence Lebihan,Marseille,France
+BOTTM,Bottom-Dollar Markets,Elizabeth Lincoln,Tsawassen,Canada
